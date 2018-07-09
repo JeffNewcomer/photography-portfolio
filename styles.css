@@ -1,0 +1,17 @@
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+p {
+  font-family: 'Special Elite', cursive;
+  margin-left: 1.66%;
+  margin-bottom: 1px;
+  font-size: 2em;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 2px solid gray;
+  width: 96.68%;
+  letter-spacing: -5px;
+}
